@@ -54,6 +54,7 @@ assign BO=((~a&b)|(~a&bin)|(b&bin));
 endmodule
 ```
 Developed by: Yogesh A R RegisterNumber: 25017941
+
 **RTL Schematic**
 <img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/2e06402d-13ee-456d-bbfb-1b886ae3936e" />
 **Output Timing Waveform**
